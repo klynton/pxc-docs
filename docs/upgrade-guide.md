@@ -1,6 +1,6 @@
 <!--------- Ask whether we need this doc or how to change it--------->
 
-# Upgrade Percona XtraDB Cluster
+# Upgrade Percona XtraDB Cluster 8.4
 
 <!-- This guide describes the procedure for upgrading Percona XtraDB Cluster without downtime
 (*rolling upgrade*) to the Percona XtraDB Cluster 8.0. -->
